@@ -21,9 +21,9 @@ import { IonReactRouter } from '@ionic/react-router';
 import { bookOutline, search, star } from 'ionicons/icons';
 import { Route, Redirect } from 'react-router';
 
-import Favorites from './home-tabs/favorite';
-import Feed from './home-tabs/feed';
-import Search from './home-tabs/search';
+import Favorites from '../home-tabs/favorite';
+import Feed from '../home-tabs/feed';
+import Search from '../home-tabs/search';
 
 
 
